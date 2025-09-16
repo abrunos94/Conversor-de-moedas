@@ -17,8 +17,7 @@ O projeto tem como objetivo realizar a conversão de valores entre diferentes mo
 
 ## 📸 Preview
 
-(Adicione aqui prints da tela do app ou um gif mostrando o funcionamento)
-
+<img src="./assets/preview.jpeg" alt="Tela do app Conversor de Moedas" width="300" />
 ---
 
 ## ⚙️ Funcionalidades
